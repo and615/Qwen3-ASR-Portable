@@ -143,3 +143,14 @@ Qwen3-ASR-Portable/
 - 内嵌 Python：3.12.8 (embeddable package)
 - PyTorch：2.5.1+cu121
 - 许可证：Apache-2.0
+
+## 联系我们
+🛠️ 如果您是零基础用户、企业客户，或者不想折腾复杂的 PyTorch、CUDA 显卡驱动配置，我们提供开箱即用、双击即运行的 GPU 加速绿色整合包（约13GB），并提供以下支持：
+
+⚙️ 完整的 Windows 10 一键免安装绿色运行环境
+
+⚡ 针对 Nvidia 10系老旧显卡的 CUDA/cuDNN 极速推理优化
+
+💬 专属的技术支持与定制功能开发
+
+欢迎联系咨询： [andy615.white@gmail.com]
