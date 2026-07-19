@@ -1,0 +1,22 @@
+# 模型文件（~12.3GB，需用户自行下载）
+models/
+
+# 内嵌 Python 运行环境（~5GB，需用户自行搭建或下载整合包）
+python/
+
+# Python 字节码缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 用户生成的识别结果
+outputs/
+
+# MiMoCode 工作目录
+.mimocode/
+
+# 临时文件
+*.tmp
+*.log
+*.swp
+*~
